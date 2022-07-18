@@ -18,7 +18,7 @@
 ```
 
 ## Với gulp 4 thì cần phải node 12 
-#### Source: https://github.com/tranquoctrung1/build_gulp
+#### Source: https://github.com/tranquoctrung1/build-gulp
 
 ##### clone folder về chạy bằng các dòng lệnh sau: 
 
